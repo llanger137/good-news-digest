@@ -9,6 +9,51 @@
       "source_name": "Otsuka Pharmaceutical / FDA",
       "url": "https://www.otsuka-us.com/otsuka-shares-fda-review-update-for-centanafadine",
       "date": "2026-07-24"
+    },
+    {
+      "headline": "Brazil moves to become one of first Americas nations to eliminate mother-to-child hepatitis B transmission",
+      "summary": "Brazil submitted a formal dossier to the World Health Organization requesting validation that it has eliminated mother-to-child transmission of hepatitis B as a public health problem. The submission was presented at a ceremony attended by Brazil's president, health minister, and the WHO director general during World Hepatitis Day events.",
+      "why_it_matters": "Successful validation would prevent thousands of children each year from acquiring a lifelong liver infection that can lead to cirrhosis and liver cancer.",
+      "topic": "development",
+      "source_name": "PAHO/WHO",
+      "url": "https://www.paho.org/en/news/29-7-2026-brazil-seeks-validation-elimination-mother-child-transmission-hepatitis-b",
+      "date": "2026-07-29"
+    },
+    {
+      "headline": "Cell therapy for Duchenne muscular dystrophy shows real functional benefit in peer-reviewed phase 3 trial",
+      "summary": "The Lancet published full results of a randomized, placebo-controlled phase 3 trial of an investigational cell therapy called deramiocel, showing it slowed the loss of upper limb function in Duchenne muscular dystrophy patients by more than half compared to placebo. The trial also found a meaningful cardiac benefit, and the paper underwent independent peer review confirming its methodology and findings.",
+      "why_it_matters": "Duchenne muscular dystrophy is a fatal genetic muscle-wasting disease with very few effective treatments, so a therapy that measurably slows physical decline and protects the heart could be a major step forward for patients.",
+      "topic": "medicine",
+      "source_name": "The Lancet / Capricor Therapeutics",
+      "url": "https://www.globenewswire.com/news-release/2026/07/29/3335380/0/en/The-Lancet-Publishes-HOPE-3-Data-for-Capricor-Therapeutics-Deramiocel-in-Duchenne-Muscular-Dystrophy.html",
+      "date": "2026-07-29"
+    },
+    {
+      "headline": "Ghana's top court strikes down party delegate system, expanding voting rights to millions of members",
+      "summary": "Ghana's Supreme Court ruled that political parties' delegate-based voting system for internal elections is unconstitutional, a decision expected to give millions of ordinary party members direct voting rights in future primaries. The seven-member panel issued the judgment after a constitutional challenge argued that restricting votes to selected delegates undermined democratic principles.",
+      "why_it_matters": "The ruling extends real democratic participation to millions of party members who were previously locked out of choosing their own leaders.",
+      "topic": "democracy",
+      "source_name": "abcnewsgh.com",
+      "url": "https://abcnewsgh.com/supreme-court-rules-political-parties-delegate-system-unconstitutional/",
+      "date": "2026-07-29"
+    },
+    {
+      "headline": "Simple silver liquid stops childhood cavities without drilling or sedation, major U.S. trial confirms",
+      "summary": "A University of Michigan-led phase three trial of 830 young children found that silver diamine fluoride, painted onto a cavity in seconds, stopped decay in more than half of treated baby teeth compared to about a fifth for placebo. The treatment needs no drilling, shots, or general anesthesia, which could spare many toddlers from risky sedation procedures.",
+      "why_it_matters": "This rigorous randomized trial gives regulators the population-level safety and efficacy evidence needed to potentially approve a cheap, painless alternative to surgery for one of childhood's most common chronic diseases.",
+      "topic": "medicine",
+      "source_name": "JAMA Pediatrics / University of Michigan",
+      "url": "https://news.umich.edu/drill-free-cavity-care-one-minute-one-tiny-brush-one-pivotal-trial/",
+      "date": "2026-07-27"
+    },
+    {
+      "headline": "Long-acting injectable HIV therapy shown superior to daily pills in African adolescents",
+      "summary": "New 96-week trial results presented at the International AIDS Conference in Rio de Janeiro found that an eight-weekly injectable combination worked better than daily oral HIV therapy for adolescents in sub-Saharan Africa. Separate real-world data from nearly 6,800 adults also showed the injectable option matched daily pills for keeping the virus suppressed outside of controlled trial settings.",
+      "why_it_matters": "Better options that don't require daily pill-taking could significantly improve treatment adherence and outcomes for young people living with HIV in the region hit hardest by the epidemic.",
+      "topic": "health",
+      "source_name": "ViiV Healthcare / AIDS 2026",
+      "url": "https://viivhealthcare.com/hiv-news-and-media/news/press-releases/2026/july/new-long-acting-injectable-data-at-aids-2026/",
+      "date": "2026-07-29"
     }
   ]
 }

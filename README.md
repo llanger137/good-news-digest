@@ -9,4 +9,4 @@ Claude Code cloud routine every morning (~6am America/Chicago).
   to each run for dedup.
 
 Seeded 2026-08-06 from the local prompt spike in `~/good_news/spike`
-(July 2026 runs). Consumed (eventually) by the Good News Android app.
+(July 2026 runs). Consumed by the Good News Android app, which reads this repo as its feed.
