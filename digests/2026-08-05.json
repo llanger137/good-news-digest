@@ -1,0 +1,23 @@
+{
+  "date": "2026-08-05",
+  "items": [
+    {
+      "headline": "Kansas voters reject amendment to elect state Supreme Court justices",
+      "summary": "Kansas voters rejected a proposed constitutional amendment that would have scrapped the state's merit-based nominating commission for choosing Supreme Court justices and replaced it with partisan statewide elections. About 62 percent voted no, leaving the existing selection process in place.",
+      "why_it_matters": "A statewide vote kept a state's highest court insulated from partisan campaign politics rather than opening judicial seats to election contests.",
+      "topic": "democracy",
+      "source_name": "NBC News",
+      "url": "https://www.nbcnews.com/politics/2026-election/kansas-voters-reject-gop-effort-elect-supreme-court-justices-rcna590026",
+      "date": "2026-08-04"
+    },
+    {
+      "headline": "Randomized trial finds automated oxygen control outperforms manual adjustment in hospitals",
+      "summary": "A randomized trial of 300 patients at four American hospitals found that an automated system controlling supplemental oxygen kept people within their prescribed oxygen range 85 percent of the time, compared with 63 percent under standard care managed by clinicians. The system also cut episodes of dangerously low and excessively high oxygen without increasing serious adverse events.",
+      "why_it_matters": "Supplemental oxygen is one of the most widely given hospital treatments, so getting the dose right more consistently reduces avoidable harm at enormous scale.",
+      "topic": "medicine",
+      "source_name": "University of Colorado Anschutz Medical Campus",
+      "url": "https://news.cuanschutz.edu/news-stories/cu-anschutz-led-trial-finds-ai-system-improves-oxygen-delivery-in-hospital-patients",
+      "date": "2026-08-03"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2026-08-01",
+  "items": [
+    {
+      "headline": "Once-weekly HIV pill matches daily treatment in two phase 3 trials",
+      "summary": "Two large phase three trials found that a single combination pill taken once a week kept HIV suppressed in adults just as well as the standard daily tablet through forty-eight weeks, with no drug resistance emerging. More than three quarters of participants said they were more satisfied with the weekly regimen than with daily pills.",
+      "why_it_matters": "Cutting lifelong HIV therapy from three hundred and sixty-five doses a year to fifty-two makes it far easier for people to stay on treatment and stay virally suppressed.",
+      "topic": "medicine",
+      "source_name": "aidsmap",
+      "url": "https://www.aidsmap.com/news/jul-2026/once-weekly-islatravir-lenacapavir-combination-pill-maintains-hiv-viral-suppression",
+      "date": "2026-07-30"
+    },
+    {
+      "headline": "United States to release 600 million dollars in childhood vaccine funding",
+      "summary": "Gavi, the global vaccine alliance, said the United States government intends to release six hundred million dollars that Congress had already appropriated for the 2025 and 2026 fiscal years. The alliance said the money will fill critical gaps in vaccine access across the lower-income countries it supports.",
+      "why_it_matters": "It restores one of the largest single funding streams for immunising children in the world's poorest countries, after months of uncertainty about whether the money would ever arrive.",
+      "topic": "development",
+      "source_name": "Gavi, the Vaccine Alliance",
+      "url": "https://www.gavi.org/news/media-room/gavi-welcomes-usg-commitment-unlock-funding-fiscal-years-2025-and-2026",
+      "date": "2026-07-30"
+    }
+  ]
+}
