@@ -1,0 +1,32 @@
+{
+  "date": "2026-07-19",
+  "items": [
+    {
+      "headline": "WHO says nearly half of dementia cases could be prevented or delayed",
+      "summary": "The World Health Organization released updated global guidelines saying up to forty five percent of dementia risk comes from factors people and health systems can actually change, like blood pressure, physical activity, alcohol use, social isolation and air pollution. More than fifty seven million people currently live with dementia worldwide, and nearly ten million new cases are diagnosed every year.",
+      "why_it_matters": "For a disease with no cure, a clear evidence based roadmap to prevent or delay millions of future cases is a major public health win.",
+      "topic": "health",
+      "source_name": "World Health Organization",
+      "url": "https://www.who.int/news/item/15-07-2026-new-who-guidelines--up-to-45--of-dementia-risk-could-be-prevented-or-delayed",
+      "date": "2026-07-15"
+    },
+    {
+      "headline": "Renewables overtook coal in global electricity generation for the first time in a century",
+      "summary": "A new Ember analysis found that in 2025, solar, wind and other renewable sources generated more electricity worldwide than coal for the first time since coal became the dominant power source, with renewables supplying more than a third of global electricity. Fossil fuel generation actually fell in both China and India, the world's largest and third largest fossil power users.",
+      "why_it_matters": "This marks a historic tipping point in the global shift away from the dirtiest form of electricity generation.",
+      "topic": "environment",
+      "source_name": "Ember / Pew Charitable Trusts",
+      "url": "https://www.pew.org/en/research-and-analysis/articles/2026/07/14/renewable-energy-sets-global-record",
+      "date": "2026-07-14"
+    },
+    {
+      "headline": "Southeast Asia's mangrove forests have turned the corner from decline to growth",
+      "summary": "A study published in the journal Science, using historical satellite data, found that mangrove forests across Southeast Asia have been expanding since 2010 after decades of loss, now accounting for forty three percent of the global increase in mangrove cover over the past fifteen years. Researchers point to stronger legal protections and greater public awareness as key drivers of the turnaround.",
+      "why_it_matters": "Mangroves are powerful natural carbon stores and storm buffers, so a documented, independently verified recovery is real progress for climate resilience and coastal ecosystems.",
+      "topic": "environment",
+      "source_name": "Mongabay / Science",
+      "url": "https://www.asla.org/news-insights/dirt/climate-biodiversity-news-(july-2026)",
+      "date": "2026-07-13"
+    }
+  ]
+}

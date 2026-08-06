@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-25",
+  "items": [
+    {
+      "headline": "FDA approves new targeted drug for a hard-to-treat lung cancer",
+      "summary": "The FDA approved zidesamtinib, sold as Jideytro, for previously treated ROS1-positive non-small cell lung cancer. It is a kinase inhibitor designed specifically to target tumors driven by ROS1 gene alterations.",
+      "why_it_matters": "It gives patients with this specific lung cancer subtype, who have already been through prior treatment, a new targeted option.",
+      "topic": "medicine",
+      "source_name": "Drugs.com (FDA approval tracker)",
+      "url": "https://www.drugs.com/newdrugs.html",
+      "date": "2026-07-22"
+    }
+  ]
+}

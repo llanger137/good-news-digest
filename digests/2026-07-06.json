@@ -1,0 +1,23 @@
+{
+  "date": "2026-07-06",
+  "items": [
+    {
+      "headline": "US Supreme Court upholds birthright citizenship",
+      "summary": "The Supreme Court ruled that the Constitution guarantees automatic citizenship to virtually all children born in the United States, striking down an executive order that had tried to end the practice. Chief Justice John Roberts wrote the majority opinion, joined by six justices.",
+      "why_it_matters": "The ruling preserves a constitutional right for millions of future children against an attempt to narrow it by executive action.",
+      "topic": "democracy",
+      "source_name": "NPR",
+      "url": "https://www.npr.org/2026/06/30/nx-s1-5839358/birthright-citizenship-decision-scotus-trump",
+      "date": "2026-06-30"
+    },
+    {
+      "headline": "Scientists confirm a disease-carrying tsetse fly has been wiped out in part of Chad",
+      "summary": "An international research team developed a rigorous new method to confirm that tsetse flies, the insects that spread sleeping sickness, have been eliminated from Chad's Mandoul region, with no flies detected there since 2018. The framework, published in the Proceedings of the National Academy of Sciences, gives health authorities a reliable way to verify vector elimination and guide further disease control efforts.",
+      "why_it_matters": "A validated method for confirming vector elimination helps protect hard-won progress against a disease that has killed hundreds of thousands and reduces the risk of it re-emerging.",
+      "topic": "science",
+      "source_name": "CIRAD / PNAS",
+      "url": "https://www.cirad.fr/en/press-area/press-releases/2026/global-health-disease-vector-elimination",
+      "date": "2026-06-29"
+    }
+  ]
+}
