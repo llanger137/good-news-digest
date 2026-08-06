@@ -1,4 +1,23 @@
 {
   "date": "2026-08-02",
-  "items": []
+  "items": [
+    {
+      "headline": "European Union approves first TROP2 therapy shown to extend survival in aggressive breast cancer",
+      "summary": "The European Commission approved Datroway as a first-line treatment for adults with metastatic triple-negative breast cancer who are not candidates for immunotherapy. In the phase three TROPION-Breast02 trial, patients on the drug lived a median of 23.7 months versus 18.7 months on chemotherapy.",
+      "why_it_matters": "Triple-negative breast cancer has few first-line options, and this is the first TROP2-directed medicine cleared across Europe with a demonstrated survival benefit in that setting.",
+      "topic": "medicine",
+      "source_name": "AstraZeneca",
+      "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/datroway-approved-in-eu-for-tnbc.html",
+      "date": "2026-07-31"
+    },
+    {
+      "headline": "Gavi approves nearly 500 million dollars for childhood vaccines and clinics in Nigeria",
+      "summary": "The vaccine alliance Gavi approved close to 500 million dollars for Nigeria covering 2026 through 2030. The money will fund routine immunisation, sustained polio eradication, expanded HPV vaccination and primary health care services.",
+      "why_it_matters": "Nigeria carries one of the world's largest burdens of unvaccinated children, and a five-year commitment lets the country plan immunisation campaigns instead of improvising year to year.",
+      "topic": "health",
+      "source_name": "ThisDay",
+      "url": "https://www.thisdaylive.com/2026/07/31/gavi-approves-500-million-for-vaccines-phcs-in-nigeria/",
+      "date": "2026-07-31"
+    }
+  ]
 }
