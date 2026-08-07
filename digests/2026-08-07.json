@@ -1,0 +1,23 @@
+{
+  "date": "2026-08-07",
+  "items": [
+    {
+      "headline": "FDA approves first drug that treats the underlying cause of narcolepsy",
+      "summary": "The Food and Drug Administration approved oveporexton, sold as Orzeyful, for adults with narcolepsy type one. It is the first medicine that works by restoring the brain signaling the disease disrupts, rather than just managing symptoms.",
+      "why_it_matters": "It gives patients with a lifelong, hard to treat sleep disorder a treatment aimed at the root cause instead of just its symptoms.",
+      "topic": "medicine",
+      "source_name": "Takeda",
+      "url": "https://www.takeda.com/newsroom/newsreleases/2026/orzeyful-approved-narcolepsy/",
+      "date": "2026-08-05"
+    },
+    {
+      "headline": "Gene study of a million people points to a new way to protect against diabetes and heart disease",
+      "summary": "Researchers analyzed genetic data from more than one million people and found that rare mutations in a gene called FNIP1 are linked to lower blood sugar, less liver fat, and roughly sixty percent lower odds of diabetes and heart disease. Turning off the same gene in mice produced similar metabolic benefits.",
+      "why_it_matters": "It identifies a promising new drug target for some of the world's most common chronic diseases, backed by unusually large scale human evidence.",
+      "topic": "science",
+      "source_name": "Nature",
+      "url": "https://www.nature.com/articles/s41586-026-10864-2",
+      "date": "2026-08-05"
+    }
+  ]
+}
