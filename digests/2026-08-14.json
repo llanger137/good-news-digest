@@ -1,0 +1,32 @@
+{
+  "date": "2026-08-14",
+  "items": [
+    {
+      "headline": "Bezos Earth Fund and Re-wild launch $200 million project to save 100 endangered species",
+      "summary": "The Bezos Earth Fund and the conservation group Re-wild have committed 200 million dollars over five years to pull 100 critically endangered species back from the brink of extinction. The species span more than 30 countries and include mammals, amphibians, birds, fish, and plants.",
+      "why_it_matters": "It is described as the largest single philanthropic commitment ever made to species recovery, funded for sustained five year support instead of short grant cycles.",
+      "topic": "environment",
+      "source_name": "Bezos Earth Fund",
+      "url": "https://www.bezosearthfund.org/news-and-insights/phoenix-species-project-launches-global-effort-to-bring-100-of-the-worlds-most-threatened-species-back-from-the-brink",
+      "date": "2026-08-12"
+    },
+    {
+      "headline": "FDA approves first-in-class immune therapy for relapsed multiple myeloma",
+      "summary": "The FDA granted accelerated approval to iberdomide, sold as Zenbexus, in combination with existing drugs for adults with multiple myeloma who relapsed after prior treatment. In a randomized trial the new combination roughly doubled the rate of patients reaching a deep, disease free response compared with standard treatment, from 21 percent to 41 percent.",
+      "why_it_matters": "It is the first approved drug in a new class of myeloma medicines, giving patients who relapse a treatment shown to produce deeper remissions than current standard care.",
+      "topic": "medicine",
+      "source_name": "FDA",
+      "url": "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-grants-accelerated-approval-iberdomide-daratumumab-and-hyaluronidase-fihj-and-dexamethasone",
+      "date": "2026-08-13"
+    },
+    {
+      "headline": "Federal judge blocks Trump's mail-in voting order nationwide",
+      "summary": "A federal judge in Boston issued a nationwide injunction stopping the administration from enforcing an executive order that sought to restrict mail-in and absentee voting ahead of the November midterms. The ruling expands an earlier order that had only covered twenty three states.",
+      "why_it_matters": "It preserves mail voting access for millions of voters nationwide while the order's legality is fully litigated in court.",
+      "topic": "democracy",
+      "source_name": "NPR",
+      "url": "https://www.npr.org/2026/08/11/nx-s1-5928383/trump-mail-in-voting-executive-order-usps",
+      "date": "2026-08-11"
+    }
+  ]
+}
