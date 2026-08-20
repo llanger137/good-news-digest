@@ -1,0 +1,23 @@
+{
+  "date": "2026-08-20",
+  "items": [
+    {
+      "headline": "FDA approves first gene therapy for glycogen storage disease type one A",
+      "summary": "Regulators granted accelerated approval to a one-time gene therapy for a rare metabolic disorder that has long forced patients to eat cornstarch around the clock to avoid dangerous drops in blood sugar. In clinical studies, treated patients needed far less cornstarch and had fewer severe low blood sugar episodes.",
+      "why_it_matters": "It is the first therapy designed to treat the underlying cause of this disease rather than just managing its symptoms.",
+      "topic": "medicine",
+      "source_name": "Ultragenyx Pharmaceutical",
+      "url": "https://www.globenewswire.com/news-release/2026/08/19/3348019/20739/en/ultragenyx-announces-u-s-fda-approval-of-genglycos-gene-therapy-the-first-ever-fda-approved-treatment-designed-to-treat-the-underlying-cause-of-glycogen-storage-disease-type-ia-gsd.html",
+      "date": "2026-08-19"
+    },
+    {
+      "headline": "Personalized cancer vaccine cuts melanoma recurrence in large trial",
+      "summary": "In a trial of more than eleven hundred patients, a vaccine built from each patient's own tumor mutations, given alongside an immunotherapy drug, significantly lowered the chance of melanoma coming back or spreading compared with the immunotherapy drug alone. The companies plan to present full results and seek regulatory review.",
+      "why_it_matters": "It is the strongest evidence yet, at large scale, that personalized cancer vaccines can meaningfully reduce recurrence after surgery.",
+      "topic": "medicine",
+      "source_name": "Merck and Moderna",
+      "url": "https://www.merck.com/news/merck-and-moderna-announce-phase-3-interpath-001-trial-of-intismeran-autogene-plus-keytruda-met-endpoints-of-recurrence-free-survival-rfs-and-distant-metastasis-free-survival-dmfs-in-patient/",
+      "date": "2026-08-19"
+    }
+  ]
+}
