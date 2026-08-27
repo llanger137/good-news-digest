@@ -36,3 +36,4 @@
 2026-08-21 | FDA authorizes first fully robotic blood-draw device
 2026-08-23 | EU approves earlier-stage combination therapy for relapsed multiple myeloma
 2026-08-25 | FDA clears first blood test for both ruling in and ruling out Alzheimer's in one step
+2026-08-27 | FDA approves first targeted pill for advanced pancreatic cancer

@@ -1,0 +1,14 @@
+{
+  "date": "2026-08-27",
+  "items": [
+    {
+      "headline": "FDA approves first targeted pill for advanced pancreatic cancer",
+      "summary": "The FDA approved daraxonrasib, sold as Rasonque, the first drug that directly targets the mutated protein driving most pancreatic cancers. In a randomized trial of five hundred patients, it nearly doubled median survival compared with standard chemotherapy, and regulators cleared it more than six months ahead of schedule.",
+      "why_it_matters": "Pancreatic cancer has one of the lowest survival rates of any major cancer, and this is the first therapy shown to meaningfully extend life for the roughly ninety percent of patients whose tumors carry this mutation.",
+      "topic": "medicine",
+      "source_name": "FDA",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-class-targeted-therapy-metastatic-pancreatic-cancer",
+      "date": "2026-08-26"
+    }
+  ]
+}
