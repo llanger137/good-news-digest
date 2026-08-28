@@ -1,0 +1,23 @@
+{
+  "date": "2026-08-28",
+  "items": [
+    {
+      "headline": "FDA approves first oral drug for dermatomyositis",
+      "summary": "The FDA approved brepocitinib, sold as Lisraya, as the first pill for adults with dermatomyositis, a rare disease that causes muscle weakness and skin rash. In a year-long trial of two hundred forty one patients, it outperformed placebo on the disease's standard response measure.",
+      "why_it_matters": "Patients with this rare autoimmune disease now have a first oral treatment option instead of relying only on injections or infusions.",
+      "topic": "medicine",
+      "source_name": "FDA",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-drug-indicated-treat-dermatomyositis-adults",
+      "date": "2026-08-27"
+    },
+    {
+      "headline": "WHO prequalifies a new typhoid vaccine from South Korea's EuBiologics",
+      "summary": "The World Health Organization granted prequalification to a new typhoid conjugate vaccine made by the South Korean company EuBiologics, clearing the way for United Nations agencies to buy it for immunization programs in developing countries. A trial of more than three thousand participants in Kenya and Senegal found it worked as well as an already approved vaccine.",
+      "why_it_matters": "A second prequalified typhoid vaccine maker expands global supply and should help lower prices for the countries that need it most.",
+      "topic": "development",
+      "source_name": "The Korea Herald",
+      "url": "https://www.koreaherald.com/article/10849076",
+      "date": "2026-08-23"
+    }
+  ]
+}
