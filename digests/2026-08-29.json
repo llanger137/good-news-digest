@@ -1,0 +1,23 @@
+{
+  "date": "2026-08-29",
+  "items": [
+    {
+      "headline": "WHO declares Ebola outbreak in Uganda over",
+      "summary": "The World Health Organization declared the end of Uganda's Ebola outbreak after forty two days passed with no new confirmed cases. The outbreak, caused by the Bundibugyo strain, infected twenty people and was contained without spreading beyond Uganda and the Democratic Republic of the Congo.",
+      "why_it_matters": "Rapid detection and a swift, coordinated response kept a highly lethal virus from spreading further, showing that hard-won lessons from past Ebola epidemics are working.",
+      "topic": "health",
+      "source_name": "World Health Organization",
+      "url": "https://www.afro.who.int/countries/uganda/news/uganda-ends-ebola-outbreak-following-completion-42-day-countdown",
+      "date": "2026-08-26"
+    },
+    {
+      "headline": "FDA approves new single-tablet HIV regimen for patients on complex treatments",
+      "summary": "The FDA approved Bixlenvo, combining bictegravir and lenacapavir, as the first once daily single tablet option for people with HIV who are virally suppressed but unable to take existing single tablet regimens. Two phase three trials showed it kept the virus suppressed as well as patients' prior complex drug combinations.",
+      "why_it_matters": "It gives a group of patients who previously needed multiple pills or injections a simpler way to stay on effective treatment, which improves long-term adherence.",
+      "topic": "medicine",
+      "source_name": "Gilead Sciences",
+      "url": "https://www.gilead.com/news/news-details/2026/u-s--fda-approves-gileads-bixlenvo-a-new-once-daily-single-tablet-option-for-virologically-suppressed-adults-with-hiv-including-those-on-complex-regimens",
+      "date": "2026-08-27"
+    }
+  ]
+}

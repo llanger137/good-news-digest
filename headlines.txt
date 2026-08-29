@@ -39,3 +39,5 @@
 2026-08-27 | FDA approves first targeted pill for advanced pancreatic cancer
 2026-08-28 | FDA approves first oral drug for dermatomyositis
 2026-08-28 | WHO prequalifies a new typhoid vaccine from South Korea's EuBiologics
+2026-08-29 | WHO declares Ebola outbreak in Uganda over
+2026-08-29 | FDA approves new single-tablet HIV regimen for patients on complex treatments
