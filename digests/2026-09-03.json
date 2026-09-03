@@ -1,0 +1,23 @@
+{
+  "date": "2026-09-03",
+  "items": [
+    {
+      "headline": "WHO and partners launch a global mpox vaccine stockpile",
+      "summary": "The World Health Organization, Gavi, UNICEF and other partners launched a coordinated global stockpile of mpox vaccines, so doses can reach countries quickly when outbreaks strike instead of relying on emergency procurement after the fact. The stockpile is expected to begin operating later this month.",
+      "why_it_matters": "It gives countries facing mpox outbreaks a standing, equitable source of vaccines rather than a crisis scramble each time.",
+      "topic": "health",
+      "source_name": "World Health Organization",
+      "url": "https://www.who.int/news/item/02-09-2026-global-initiative-launched-to-improve-access-to-mpox-vaccines",
+      "date": "2026-09-02"
+    },
+    {
+      "headline": "Federal judge blocks Trump's renewed attempt to limit birthright citizenship",
+      "summary": "A federal judge in Maryland issued a preliminary injunction against a new executive order that sought to deny automatic citizenship to certain children born in the United States, ruling it almost certainly unconstitutional. The judge pointed to the Supreme Court's earlier ruling that struck down the president's first such order.",
+      "why_it_matters": "The courts held the line on a constitutional right even after a second attempt to narrow it by executive order.",
+      "topic": "democracy",
+      "source_name": "Associated Press",
+      "url": "https://www.cbs17.com/news/ap-a-judge-blocks-trumps-new-bid-to-curb-birthright-citizenship-citing-supreme-court-precedent/",
+      "date": "2026-09-03"
+    }
+  ]
+}
