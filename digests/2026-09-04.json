@@ -1,0 +1,23 @@
+{
+  "date": "2026-09-04",
+  "items": [
+    {
+      "headline": "Large trial finds statins cut major heart events by thirty percent in healthy adults over seventy",
+      "summary": "A five-year randomized trial of nearly ten thousand healthy older adults found that a daily cholesterol-lowering pill reduced major cardiovascular events by thirty percent compared to a placebo, with serious side effects similarly rare in both groups. The results were presented at the European Society of Cardiology Congress and published in full in a leading medical journal.",
+      "why_it_matters": "It gives doctors strong evidence that a cheap, widely available drug can meaningfully protect the fastest-growing segment of the population, healthy people over seventy, from heart attacks and strokes.",
+      "topic": "medicine",
+      "source_name": "European Society of Cardiology",
+      "url": "https://www.escardio.org/news/press/press-releases/cholesterol-lowering-medication-reduces-major-cardiovascular-events-by-30-per-cent-in-older-people-without-known-cardiovascular-disease/",
+      "date": "2026-09-03"
+    },
+    {
+      "headline": "Novartis drug significantly cuts relapse rates in large multiple sclerosis trials",
+      "summary": "In two late-stage trials with more than four thousand participants, Novartis's experimental pill remibrutinib significantly reduced relapse rates in people with relapsing multiple sclerosis compared to an existing treatment, with no sign of liver toxicity. The company now plans to seek approval from health regulators around the world.",
+      "why_it_matters": "If approved, it would give people with multiple sclerosis an effective daily pill instead of infused therapies, adding a meaningful new option for a disease that still has no cure.",
+      "topic": "medicine",
+      "source_name": "Novartis",
+      "url": "https://www.novartis.com/us-en/news/media-releases/novartis-remibrutinib-high-efficacy-oral-btk-inhibitor-significantly-reduces-relapse-rates-and-shows-favorable-safety-profile-phase-iii-rms-trials",
+      "date": "2026-09-01"
+    }
+  ]
+}
