@@ -1,0 +1,14 @@
+{
+  "date": "2026-09-05",
+  "items": [
+    {
+      "headline": "FDA approves breast cancer drug that catches resistance before it shows up on scans",
+      "summary": "The FDA gave accelerated approval to camizestrant for advanced breast cancer patients who develop a specific resistance mutation, detectable through a blood test months before tumor growth would appear on imaging. In the pivotal trial, switching therapy at that early signal nearly doubled the time before the cancer progressed, from about nine months to sixteen months.",
+      "why_it_matters": "It is the first cancer therapy approved based on a blood-test mutation signal rather than waiting for a scan to show the disease has already worsened, opening the door to earlier intervention across other cancers.",
+      "topic": "medicine",
+      "source_name": "CURE Today",
+      "url": "https://www.curetoday.com/view/fda-grants-accelerated-approval-to-new-breast-cancer-treatment-for-patients-with-esr1-mutations",
+      "date": "2026-09-04"
+    }
+  ]
+}
