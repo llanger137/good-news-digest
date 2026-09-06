@@ -1,0 +1,23 @@
+{
+  "date": "2026-09-06",
+  "items": [
+    {
+      "headline": "Bhutan certified free of dog-transmitted rabies",
+      "summary": "The World Health Organization has validated that Bhutan has eliminated human deaths from dog-spread rabies, with zero cases recorded since June twenty twenty-three. The milestone followed years of nationwide dog vaccination campaigns run with local volunteers and community health workers.",
+      "why_it_matters": "It shows a disease that still kills tens of thousands of people a year worldwide can be wiped out through sustained vaccination, even in a country with modest resources.",
+      "topic": "health",
+      "source_name": "World Health Organization",
+      "url": "https://www.who.int/news/item/04-09-2026-who-validates-bhutan-for-eliminating-dog-transmitted-human-rabies",
+      "date": "2026-09-04"
+    },
+    {
+      "headline": "FDA approves the first-ever drug for Alexander disease",
+      "summary": "Regulators approved zilganersen, sold as Zanvastro, as the first treatment for Alexander disease, a rare and often fatal brain disorder in children. In the pivotal trial, patients on the drug kept a stable walking speed while those on placebo declined by about a third.",
+      "why_it_matters": "Alexander disease has never had an approved treatment, so this is the first therapy that directly targets the underlying cause rather than just easing symptoms.",
+      "topic": "medicine",
+      "source_name": "U.S. Food and Drug Administration",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-treat-alexander-disease",
+      "date": "2026-09-03"
+    }
+  ]
+}
