@@ -1,0 +1,23 @@
+{
+  "date": "2026-09-09",
+  "items": [
+    {
+      "headline": "Timor-Leste eliminates trachoma, clearing the disease from all of Southeast Asia",
+      "summary": "The World Health Organization has confirmed that Timor-Leste has eliminated trachoma as a public health problem, meaning the infection that causes blindness through repeated eye scarring no longer threatens its population. It was the last country in the region where the disease was still a concern, so the entire Southeast Asia region is now free of it.",
+      "why_it_matters": "Trachoma is the world's leading infectious cause of blindness, and clearing it from an entire region protects millions of people from preventable vision loss.",
+      "topic": "health",
+      "source_name": "World Health Organization",
+      "url": "https://www.who.int/news/item/03-09-2026-who-validates-timor-leste-s-elimination-of-trachoma-as-a-public-health-problem",
+      "date": "2026-09-03"
+    },
+    {
+      "headline": "New antibody drug cuts serious lung disease flare-ups by up to a third in large trials",
+      "summary": "Two large clinical trials found that the experimental drug tozorakimab reduced serious flare-ups in patients with chronic obstructive pulmonary disease by around thirty percent compared with standard care. The results, published in the New England Journal of Medicine, also showed the drug eased the mucus buildup that makes the disease so hard to manage.",
+      "why_it_matters": "Chronic obstructive pulmonary disease affects hundreds of millions of people worldwide, and this is the first drug shown to broadly reduce the mucus plugging that drives its worst flare-ups.",
+      "topic": "medicine",
+      "source_name": "AstraZeneca / New England Journal of Medicine",
+      "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/tozorakimab-demonstrated-statistically-significant-highly-clinically-meaningful-reduction-copd-exacerbations-oberon-titania-phase-iii-trials.html",
+      "date": "2026-09-08"
+    }
+  ]
+}
