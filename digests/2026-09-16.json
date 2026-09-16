@@ -1,0 +1,23 @@
+{
+  "date": "2026-09-16",
+  "items": [
+    {
+      "headline": "Kidney drug nearly halts a common cause of kidney failure in final phase 3 results",
+      "summary": "A two year clinical trial found that the drug atacicept cut the risk of worsening kidney disease by seventy six percent in people with a common inflammatory kidney disorder called IgA nephropathy, with no patients on the drug reaching kidney failure, needing dialysis, or needing a transplant. The drug already has accelerated approval in the United States, and the maker plans to seek full approval based on these results.",
+      "why_it_matters": "IgA nephropathy is a leading cause of kidney failure worldwide, so a treatment that reliably slows its progression could spare many patients from dialysis or a transplant.",
+      "topic": "medicine",
+      "source_name": "STAT News",
+      "url": "https://www.statnews.com/2026/09/15/vera-kidney-drug-trutakna-shows-strong-phase-3-results-igan/",
+      "date": "2026-09-15"
+    },
+    {
+      "headline": "Scientists map how the aging brain rewires its genome starting in midlife",
+      "summary": "Researchers used advanced single cell tools to chart how gene activity and the three dimensional structure of DNA change inside the human brain as people age, finding major shifts beginning around age fifty. The changes include a decline in the brain's original immune cells and a weakening of the barrier that protects the brain, both of which may help explain why the risk of Alzheimer's disease rises sharply with age.",
+      "why_it_matters": "Pinpointing these early biological shifts could help researchers develop treatments that intervene before neurodegenerative disease takes hold.",
+      "topic": "science",
+      "source_name": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260914102441.htm",
+      "date": "2026-09-14"
+    }
+  ]
+}
