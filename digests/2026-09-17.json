@@ -1,0 +1,32 @@
+{
+  "date": "2026-09-17",
+  "items": [
+    {
+      "headline": "Chile becomes first South American country to eliminate dog-transmitted rabies",
+      "summary": "The Pan American Health Organization validated that Chile has eliminated dog transmitted rabies as a public health problem, capping more than fifty years without a human case caught from a dog. It is the first country in South America to reach the milestone, and Chile's second disease elimination this year after leprosy.",
+      "why_it_matters": "Rabies still kills tens of thousands of people worldwide each year, and Chile's validation shows sustained vaccination and surveillance can permanently end it.",
+      "topic": "health",
+      "source_name": "Pan American Health Organization",
+      "url": "https://www.paho.org/en/news/14-9-2026-chile-becomes-first-country-south-america-validated-eliminating-dog-transmitted",
+      "date": "2026-09-14"
+    },
+    {
+      "headline": "Federal judge blocks four-year cap on international student and scholar visas",
+      "summary": "A federal judge in Massachusetts issued a nationwide injunction stopping a Department of Homeland Security rule that would have ended the decades old system letting international students and researchers stay for as long as they are enrolled in their program. The rule, which also would have limited foreign journalists to two hundred forty days in the country, was blocked hours before it was set to take effect.",
+      "why_it_matters": "The ruling protects hundreds of thousands of international students, researchers and journalists from a policy a judge found violated federal rulemaking law.",
+      "topic": "democracy",
+      "source_name": "STAT News",
+      "url": "https://www.statnews.com/2026/09/14/court-halts-dhs-visa-limits-foreign-scholars/",
+      "date": "2026-09-14"
+    },
+    {
+      "headline": "Antarctic ozone hole was among the smallest in decades in 2025, UN weather agency finds",
+      "summary": "The World Meteorological Organization's latest ozone bulletin found last year's ozone hole ranked among the four or five smallest since severe depletion began in the early nineteen nineties, the second straight year of improvement. Scientists credit the continued phase out of ozone depleting chemicals under the Montreal Protocol.",
+      "why_it_matters": "The shrinking ozone hole shows a decades long global treaty is working, with full recovery now on track within most of our lifetimes.",
+      "topic": "environment",
+      "source_name": "World Meteorological Organization",
+      "url": "https://wmo.int/news/media-centre/wmo-bulletin-shows-successes-and-challenges-ozone-layer-recovery",
+      "date": "2026-09-16"
+    }
+  ]
+}
