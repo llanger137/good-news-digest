@@ -1,0 +1,23 @@
+{
+  "date": "2026-09-19",
+  "items": [
+    {
+      "headline": "FDA approves the first gene therapy for Sanfilippo syndrome",
+      "summary": "The Food and Drug Administration approved a one time gene therapy for children with Sanfilippo syndrome type A, a rare inherited disease that progressively damages the brain and nervous system. Until now doctors could only manage symptoms, with no treatment aimed at the disease itself.",
+      "why_it_matters": "Families facing a previously untreatable, fatal childhood disease now have a therapy designed to change its course rather than just ease its symptoms.",
+      "topic": "medicine",
+      "source_name": "FDA",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-pediatric-patients-sanfilippo-syndrome-type",
+      "date": "2026-09-17"
+    },
+    {
+      "headline": "FDA approves new combination therapy for a hard to treat form of breast cancer",
+      "summary": "The Food and Drug Administration approved the drug imlunestrant combined with abemaciclib for advanced breast cancer that has developed resistance through a specific tumor mutation. In a large clinical trial, adding the second drug more than doubled the time patients lived without their cancer getting worse.",
+      "why_it_matters": "It gives patients whose breast cancer has stopped responding to standard hormone therapy a new option shown to meaningfully slow the disease.",
+      "topic": "medicine",
+      "source_name": "FDA",
+      "url": "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-imlunestrant-combination-abemaciclib-er-positive-her2-negative-esr1-mutated-advanced-or",
+      "date": "2026-09-18"
+    }
+  ]
+}
