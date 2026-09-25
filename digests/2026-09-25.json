@@ -1,0 +1,23 @@
+{
+  "date": "2026-09-25",
+  "items": [
+    {
+      "headline": "CDC report finds US cancer death rates kept falling, driven by lung cancer progress",
+      "summary": "The Centers for Disease Control and Prevention says cancer death rates in the United States continued to fall from 2019 to 2023, extending a decline that has lasted more than two decades. Most of the improvement came from lung cancer, where deaths have dropped sharply as fewer adults smoke.",
+      "why_it_matters": "It shows that decades of public health work on smoking and earlier detection are still translating into fewer cancer deaths nationwide.",
+      "topic": "health",
+      "source_name": "CDC",
+      "url": "https://www.cdc.gov/media/releases/2026/annual-report-to-the-nation-progress-against-lung-cancer-drives-down-cancer-mortality.html",
+      "date": "2026-09-22"
+    },
+    {
+      "headline": "World Bank finds global extreme poverty near record low, still projected to keep easing",
+      "summary": "The World Bank's newest global poverty update estimates that about one in ten people worldwide lived in extreme poverty in 2024, with the rate projected to edge down further by 2026. Progress remains uneven, with poverty still concentrated in Sub-Saharan Africa and conflict-affected countries.",
+      "why_it_matters": "It shows the long-run push to end extreme poverty is still moving in the right direction, even as gains slow in the hardest-hit regions.",
+      "topic": "development",
+      "source_name": "World Bank",
+      "url": "https://blogs.worldbank.org/en/opendata/september-2026-global-poverty-update-from-the-world-bank--one-in",
+      "date": "2026-09-23"
+    }
+  ]
+}
