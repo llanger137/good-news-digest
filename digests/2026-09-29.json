@@ -1,0 +1,23 @@
+{
+  "date": "2026-09-29",
+  "items": [
+    {
+      "headline": "FDA approves first new class of Parkinson's disease drug in years",
+      "summary": "The FDA approved tavapadon, sold as Juvmo, the first drug that selectively targets D1 and D5 dopamine receptors for adults with Parkinson's disease. In late-stage trials it improved daily motor function early in the disease and added about an extra hour of good symptom control per day when combined with existing treatment.",
+      "why_it_matters": "It gives Parkinson's patients a genuinely new type of treatment after decades of relying on the same handful of drug classes.",
+      "topic": "medicine",
+      "source_name": "AbbVie",
+      "url": "https://news.abbvie.com/2026-09-28-U-S-FDA-Approves-AbbVies-JUVMO-TM-tavapadon-for-Parkinsons-Disease",
+      "date": "2026-09-28"
+    },
+    {
+      "headline": "Federal judge rules states can't be coerced into changing elections to keep security funding",
+      "summary": "A federal judge ruled that the Department of Homeland Security had no legal authority to withhold counterterrorism grant money from states that refused to make specific changes to how they run elections. The ruling came in a lawsuit brought by counties in Texas and Tennessee and the city of Columbus, Ohio.",
+      "why_it_matters": "It reinforces that federal agencies cannot use funding as leverage to override state control over how elections are administered.",
+      "topic": "democracy",
+      "source_name": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/28/elections-dhs-counterterrorism.html",
+      "date": "2026-09-28"
+    }
+  ]
+}
