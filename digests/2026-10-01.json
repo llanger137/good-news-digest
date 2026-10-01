@@ -1,0 +1,32 @@
+{
+  "date": "2026-10-01",
+  "items": [
+    {
+      "headline": "Chile becomes the first country in the Americas to eliminate leprosy",
+      "summary": "The Pan American Health Organization verified that Chile has eliminated leprosy as a public health problem, the first country in the Americas to reach that milestone. Health officials announced the certification at a regional meeting in Washington this week.",
+      "why_it_matters": "It shows that a disease once considered incurable and stigmatizing can be driven out of a country through sustained public health work.",
+      "topic": "health",
+      "source_name": "Pan American Health Organization",
+      "url": "https://www.paho.org/en/news/29-9-2026-five-countries-and-territories-recognized-disease-elimination-achievements-americas",
+      "date": "2026-09-29"
+    },
+    {
+      "headline": "Brazil becomes the world's most populous country to eliminate mother-to-child HIV transmission",
+      "summary": "The Pan American Health Organization confirmed Brazil has eliminated mother-to-child transmission of HIV, making it the largest country in the world to reach that status. The achievement was formally recognized at a regional health meeting this week.",
+      "why_it_matters": "It proves that universal access to testing and treatment during pregnancy can stop a major disease from passing to the next generation, even in a country of more than 200 million people.",
+      "topic": "health",
+      "source_name": "Pan American Health Organization",
+      "url": "https://www.paho.org/en/news/29-9-2026-five-countries-and-territories-recognized-disease-elimination-achievements-americas",
+      "date": "2026-09-29"
+    },
+    {
+      "headline": "El Salvador becomes the first Central American country to eliminate trachoma",
+      "summary": "The Pan American Health Organization validated that El Salvador has eliminated trachoma as a public health problem, a first for Central America. Trachoma is a bacterial eye infection that has historically been a leading cause of preventable blindness.",
+      "why_it_matters": "It marks steady regional progress toward wiping out a preventable disease that still blinds people in poorer parts of the world.",
+      "topic": "health",
+      "source_name": "Pan American Health Organization",
+      "url": "https://www.paho.org/en/news/29-9-2026-five-countries-and-territories-recognized-disease-elimination-achievements-americas",
+      "date": "2026-09-29"
+    }
+  ]
+}
