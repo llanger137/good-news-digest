@@ -1,0 +1,32 @@
+{
+  "date": "2026-10-04",
+  "items": [
+    {
+      "headline": "FDA approves first heart valve that can grow with a child",
+      "summary": "The Food and Drug Administration approved a heart valve that doctors can expand inside a child's chest as the child grows, without open heart surgery. It is also the first approved heart valve to use a synthetic material for its inner flaps instead of animal tissue.",
+      "why_it_matters": "Children with heart valve defects may need far fewer repeat open heart surgeries as they grow up.",
+      "topic": "medicine",
+      "source_name": "U.S. News & World Report (HealthDay)",
+      "url": "https://www.usnews.com/news/health-news/articles/2026-10-02/a-heart-valve-that-grows-up-with-the-patient-wins-fda-approval",
+      "date": "2026-10-01"
+    },
+    {
+      "headline": "Judge rules Trump could not fire a court-appointed U.S. attorney",
+      "summary": "A federal judge ruled that President Trump unlawfully fired Seattle's court-appointed U.S. attorney and ordered him reinstated. The judge said the Constitution does not give the president the power to remove a prosecutor that federal judges themselves appointed.",
+      "why_it_matters": "The ruling is an early court check on the president's attempt to control federal prosecutors beyond what the law allows.",
+      "topic": "democracy",
+      "source_name": "The Washington Post",
+      "url": "https://www.washingtonpost.com/national-security/2026/10/01/trump-illegally-fired-seattles-us-attorney-judge-says/",
+      "date": "2026-10-01"
+    },
+    {
+      "headline": "Judge halts border wall construction in Big Bend National Park",
+      "summary": "A federal judge in Texas issued an emergency injunction stopping construction of a border wall through Big Bend National Park and the surrounding region. She ruled that the government could not rely on legal waivers to skip environmental and other required reviews.",
+      "why_it_matters": "The order protects one of the country's most ecologically important landscapes from immediate construction while the case continues.",
+      "topic": "environment",
+      "source_name": "The Texas Tribune",
+      "url": "https://www.texastribune.org/2026/10/02/texas-big-bend-border-wall-court-ruling-injunction/",
+      "date": "2026-10-02"
+    }
+  ]
+}
