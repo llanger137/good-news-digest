@@ -80,3 +80,4 @@
 2026-10-04 | Judge halts border wall construction in Big Bend National Park
 2026-10-05 | Nobel Prize in Medicine awarded for optogenetics, the technique that lets scientists control neurons with light
 2026-10-06 | Nobel Prize in Physics awarded for discovering cosmic neutrinos with a telescope built into Antarctic ice
+2026-10-07 | Nobel Prize in Chemistry awarded for discovering self-amplifying chemical reactions
