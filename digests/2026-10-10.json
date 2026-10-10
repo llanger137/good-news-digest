@@ -1,0 +1,32 @@
+{
+  "date": "2026-10-10",
+  "items": [
+    {
+      "headline": "FDA approves first once-monthly injectable schizophrenia treatment",
+      "summary": "The FDA approved Weltruza, a once-a-month shot of the antipsychotic olanzapine for adults with schizophrenia. It's the first subcutaneous version of the drug that needs no loading dose or hours of monitoring after each injection.",
+      "why_it_matters": "A single monthly shot could help far more people with schizophrenia stay on treatment than a daily pill does.",
+      "topic": "medicine",
+      "source_name": "Teva Pharmaceutical Industries",
+      "url": "https://ir.tevapharm.com/news-and-events/press-releases/press-release-details/2026/Teva-Announces-U-S--Food-and-Drug-Administration-FDA-Approval-of-WELTRUZA-Olanzapine-For-Extended-Release-Injectable-Suspension-as-the-First-and-Only-Once-Monthly-Subcutaneous-Injectable-Olanzapine-for-Adults-with-Schizophrenia/default.aspx",
+      "date": "2026-10-09"
+    },
+    {
+      "headline": "Nobel Peace Prize goes to human rights champion Navi Pillay",
+      "summary": "The Norwegian Nobel Committee awarded the 2026 Nobel Peace Prize to Navi Pillay, a South African jurist and former United Nations human rights chief, for decades of work promoting peace and international law.",
+      "why_it_matters": "The award puts a global spotlight on international law and human rights enforcement at a moment when both are under heavy pressure.",
+      "topic": "democracy",
+      "source_name": "The Nobel Prize",
+      "url": "https://www.nobelpeaceprize.org/articles/announcement-of-the-nobel-peace-prize-2026",
+      "date": "2026-10-09"
+    },
+    {
+      "headline": "Federal judge rules Trump administration's use of voter data unlawful",
+      "summary": "A federal judge found that the Justice Department broke the law by cross-checking state voter rolls against a federal immigration database. The judge said her ruling does not stop the government from taking lawful steps to help states keep their voter lists accurate.",
+      "why_it_matters": "The ruling blocks a tactic that critics warned could wrongly strip eligible citizens from the voter rolls.",
+      "topic": "democracy",
+      "source_name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/9/us-judge-rules-trump-administrations-use-of-voter-data-unlawful",
+      "date": "2026-10-09"
+    }
+  ]
+}
