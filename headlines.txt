@@ -87,3 +87,4 @@
 2026-10-10 | Federal judge rules Trump administration's use of voter data unlawful
 2026-10-11 | Vaccine programs delivered a record thirty billion dollars in economic benefits to lower income countries in 2025
 2026-10-12 | FDA approves first immunotherapy for stage three colon cancer after surgery
+2026-10-14 | FDA approves first oral drug for drug-resistant herpes in immunocompromised patients
