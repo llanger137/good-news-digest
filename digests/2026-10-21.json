@@ -1,4 +1,14 @@
 {
   "date": "2026-10-21",
-  "items": []
+  "items": [
+    {
+      "headline": "FDA approves first-of-its-kind treatment that can let some hepatitis B patients stop medication",
+      "summary": "The FDA approved Hibsago, also called bepirovirsen, an injection given alongside standard antiviral pills for certain adults with chronic hepatitis B who do not have cirrhosis. In two placebo-controlled trials, about one in four patients met the criteria to stop their antiviral medicine, compared with none on placebo, and nearly one in five still had the virus under control six months after stopping all treatment.",
+      "why_it_matters": "Most people with chronic hepatitis B, which affects roughly 250 million people worldwide, now take antivirals for life, so a treatment that allows some to stop is a real step toward a functional cure.",
+      "topic": "medicine",
+      "source_name": "U.S. Food and Drug Administration",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-its-kind-chronic-hepatitis-b-treatment",
+      "date": "2026-10-20"
+    }
+  ]
 }

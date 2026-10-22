@@ -1,4 +1,14 @@
 {
   "date": "2026-10-16",
-  "items": []
+  "items": [
+    {
+      "headline": "Europe's drug regulator recommends approval of the first pill targeting the main driver of pancreatic cancer",
+      "summary": "The European Medicines Agency recommended approving daraxonrasib, sold as Rasonque, for metastatic pancreatic cancer that has worsened after earlier treatment. In a 500-patient phase three trial, people taking the pill lived a median of 12.4 months, compared with 6.7 months on chemotherapy.",
+      "why_it_matters": "Survival nearly doubled in one of the deadliest cancers, which has had few effective treatments once it spreads.",
+      "topic": "medicine",
+      "source_name": "European Medicines Agency",
+      "url": "https://www.ema.europa.eu/en/news/ema-recommends-authorisation-rasonque-metastatic-pancreatic-cancer",
+      "date": "2026-10-15"
+    }
+  ]
 }

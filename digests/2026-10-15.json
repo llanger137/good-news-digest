@@ -1,4 +1,23 @@
 {
   "date": "2026-10-15",
-  "items": []
+  "items": [
+    {
+      "headline": "FDA expands bladder cancer immunotherapy Anktiva to a group of patients who had no approved option",
+      "summary": "The FDA approved Anktiva, given together with the standard bladder immunotherapy, for adults whose early-stage, high-grade papillary bladder tumors keep coming back after that standard treatment. It is the first drug approved specifically for this group, and the agency based the decision on trial results in a closely related form of the cancer, where 62 percent of patients saw their cancer disappear.",
+      "why_it_matters": "These patients often face removal of the whole bladder, so another option that can spare the organ makes a real difference.",
+      "topic": "medicine",
+      "source_name": "U.S. Food and Drug Administration",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-certain-people-bcg-unresponsive-bladder-cancer",
+      "date": "2026-10-14"
+    },
+    {
+      "headline": "Brazil's Congress caps the work week at 40 hours and bans six-day weeks",
+      "summary": "Brazil's Senate passed a constitutional amendment, 75 votes to one, that cuts the maximum work week from 44 to 40 hours and ends six-day work weeks. The change covers more than 30 million workers, most of them low-paid workers in shops, restaurants and hotels.",
+      "why_it_matters": "It is one of the largest cuts to working hours in any major economy in decades, and it passed with support from both sides ahead of a polarized election.",
+      "topic": "development",
+      "source_name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/15/brazil-cuts-work-week-to-40-hours-lula-bolsonaro-election-runoff",
+      "date": "2026-10-14"
+    }
+  ]
 }

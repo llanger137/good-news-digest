@@ -1,4 +1,23 @@
 {
   "date": "2026-10-17",
-  "items": []
+  "items": [
+    {
+      "headline": "Amazon deforestation in Brazil falls to its lowest level since records began",
+      "summary": "Brazil's official satellite data shows forest clearing in the Amazon fell almost 42 percent in a year, to 3,335 square kilometers, the lowest figure since tracking began in 1988. Deforestation is down 71 percent since 2022, largely because of stronger enforcement.",
+      "why_it_matters": "The Amazon is vital for the climate and biodiversity, and this shows that sustained policy can rapidly slow forest loss.",
+      "topic": "environment",
+      "source_name": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election",
+      "date": "2026-10-16"
+    },
+    {
+      "headline": "Europe recommends approval of orforglipron, a once-daily weight-loss and diabetes pill",
+      "summary": "Europe's medicines regulator recommended approving orforglipron, sold as Foundayo, a daily tablet in the same drug family as the popular weight-loss injections, for obesity and type 2 diabetes. In trials, adults lost about 5 to 11 percent of their body weight over 72 weeks, compared with about 2 percent on placebo.",
+      "why_it_matters": "A pill that can be taken at any time of day, with or without food, could reach far more people than injectable versions.",
+      "topic": "medicine",
+      "source_name": "European Medicines Agency",
+      "url": "https://www.ema.europa.eu/en/news/new-oral-glp-1-medicine-weight-management-type-2-diabetes",
+      "date": "2026-10-16"
+    }
+  ]
 }

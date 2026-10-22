@@ -1,4 +1,23 @@
 {
   "date": "2026-10-20",
-  "items": []
+  "items": [
+    {
+      "headline": "FDA approves immunotherapy that may spare some rectal cancer patients from chemo, radiation and surgery",
+      "summary": "The FDA granted accelerated approval to GSK's Jemperli, also called dostarlimab, as a standalone treatment for adults with untreated stage two or three rectal cancer that has a specific genetic profile known as mismatch repair deficiency. In a trial of 154 patients followed for more than two years, almost three in four needed no surgery, radiation or chemotherapy.",
+      "why_it_matters": "For a subset of rectal cancer patients, six months of immunotherapy alone could replace treatments that often cause infertility, bowel dysfunction or a permanent colostomy.",
+      "topic": "medicine",
+      "source_name": "U.S. Food and Drug Administration",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-immunotherapy-may-allow-certain-patients-rectal-cancer-avoid-chemotherapy-radiation-and",
+      "date": "2026-10-19"
+    },
+    {
+      "headline": "Japan launches first mission to land on Mars's moon Phobos and return samples",
+      "summary": "Japan's space agency launched its Martian Moons Exploration spacecraft on an H3 rocket, and declared the launch a success once the probe separated from the rocket about an hour later. The craft should reach Mars next August, deploy a French and German rover, collect at least ten grams of Phobos soil and bring it back to Earth in 2031.",
+      "why_it_matters": "No spacecraft has ever landed on either of Mars's moons, so returned samples could settle how they formed and add to what we know about the early solar system.",
+      "topic": "science",
+      "source_name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/20/japan-mars-moon-mission-phobos-collect-rocks",
+      "date": "2026-10-19"
+    }
+  ]
 }
