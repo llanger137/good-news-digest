@@ -96,3 +96,4 @@
 2026-10-20 | FDA approves immunotherapy that may spare some rectal cancer patients from chemo, radiation and surgery
 2026-10-20 | Japan launches first mission to land on Mars's moon Phobos and return samples
 2026-10-21 | FDA approves first-of-its-kind treatment that can let some hepatitis B patients stop medication
+2026-10-28 | FDA approves talazoparib plus enzalutamide for earlier-stage hormone-sensitive prostate cancer
