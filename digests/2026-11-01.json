@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-01",
+  "items": [
+    {
+      "headline": "Barbados eliminates mother-to-child transmission of HIV",
+      "summary": "The World Health Organization certified Barbados for eliminating mother to child transmission of HIV, after the country recorded no new infant infections among more than six thousand births over three years. Health officials marked the milestone at a ceremony with the Pan American Health Organization and the Ministry of Health and Wellness.",
+      "why_it_matters": "It shows that sustained testing and treatment programs can stop a preventable disease from passing to the next generation.",
+      "topic": "health",
+      "source_name": "PAHO/WHO",
+      "url": "https://www.paho.org/en/news/30-10-2026-barbados-eliminates-mother-child-transmission-hiv",
+      "date": "2026-10-30"
+    },
+    {
+      "headline": "FDA approves first DNA-based immunotherapy for a rare throat disease",
+      "summary": "The FDA granted accelerated approval to Voceryq, the first plasmid DNA immunotherapy for adults with recurrent respiratory papillomatosis, a rare disease that forces patients into repeated throat surgeries. In a small trial, more than a quarter of patients who had been having frequent operations went a full year afterward without needing another one.",
+      "why_it_matters": "It gives patients with a painful, surgery dependent condition their first approved medical alternative to repeated operations.",
+      "topic": "medicine",
+      "source_name": "FDA",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-plasmid-dna-based-immunotherapy-adults-recurrent-respiratory-papillomatosis",
+      "date": "2026-10-30"
+    }
+  ]
+}

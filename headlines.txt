@@ -97,3 +97,5 @@
 2026-10-20 | Japan launches first mission to land on Mars's moon Phobos and return samples
 2026-10-21 | FDA approves first-of-its-kind treatment that can let some hepatitis B patients stop medication
 2026-10-28 | FDA approves talazoparib plus enzalutamide for earlier-stage hormone-sensitive prostate cancer
+2026-11-01 | Barbados eliminates mother-to-child transmission of HIV
+2026-11-01 | FDA approves first DNA-based immunotherapy for a rare throat disease
