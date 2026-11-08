@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-08",
+  "items": [
+    {
+      "headline": "FDA approves first new head and neck cancer option in a decade",
+      "summary": "The FDA gave accelerated approval to Rybrevant Faspro, a quick subcutaneous injection, for adults with recurrent or metastatic head and neck cancer whose disease worsened after chemotherapy and immunotherapy. In an early trial, tumors shrank in about four out of ten patients, and some patients saw their cancer disappear entirely on scans.",
+      "why_it_matters": "It is the first new treatment for this hard to treat cancer in the second line setting in ten years, replacing a lengthy infusion with a five minute injection.",
+      "topic": "medicine",
+      "source_name": "CURE Today",
+      "url": "https://www.curetoday.com/view/fda-approves-rybrevant-faspro-for-advanced-head-and-neck-cancer",
+      "date": "2026-11-05"
+    },
+    {
+      "headline": "Federal judge blocks Trump administration from using noncitizen voter lists to challenge ballots",
+      "summary": "A federal judge ruled that the Trump administration likely broke privacy law by sharing lists of supposedly non-citizen voters with states and ordered it to stop pushing election officials to act on those lists. The ruling came one day before the midterm elections, after officials admitted the lists had wrongly flagged citizens as non-citizens.",
+      "why_it_matters": "It protects eligible voters from having their ballots challenged based on flawed government lists right before a major election.",
+      "topic": "democracy",
+      "source_name": "Newsweek",
+      "url": "https://www.newsweek.com/trump-block-noncitizen-voter-lists-12653739",
+      "date": "2026-11-02"
+    }
+  ]
+}
