@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-11",
+  "items": [
+    {
+      "headline": "FDA approves first drug in a new class to prevent repeat strokes",
+      "summary": "The FDA approved asundexian, a once-daily pill that blocks a clotting protein called Factor Eleven-A, to help prevent a second stroke in adults who already had a mild to moderate one. In a trial of more than twelve thousand patients, it cut the risk of another stroke by about a quarter without raising the overall rate of serious bleeding.",
+      "why_it_matters": "It's the first approved medicine in an entirely new class of blood thinners, giving stroke survivors a safer option for preventing a second, often more disabling stroke.",
+      "topic": "medicine",
+      "source_name": "FDA",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-factor-xla-inhibitor-help-prevent-stroke-certain-adults-high-risk",
+      "date": "2026-11-09"
+    },
+    {
+      "headline": "FDA approves new pill for a painful joint tumor with few treatment options",
+      "summary": "The FDA approved pimicotinib, a once-daily pill for adults with symptomatic tenosynovial giant cell tumor, a rare tumor that grows inside joints and can cause pain and reduced mobility. In a placebo-controlled trial, more than half of patients taking the drug saw their tumors shrink, compared to only a few taking placebo.",
+      "why_it_matters": "It gives patients with this painful, often hard to treat joint tumor an effective new daily pill, adding to a short list of approved options.",
+      "topic": "medicine",
+      "source_name": "FDA",
+      "url": "https://www.fda.gov/drugs/cancer-approvals/fda-approves-pimicotinib-symptomatic-tenosynovial-giant-cell-tumor",
+      "date": "2026-11-10"
+    }
+  ]
+}
