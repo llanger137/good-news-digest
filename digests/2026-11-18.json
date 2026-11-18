@@ -1,0 +1,32 @@
+{
+  "date": "2026-11-18",
+  "items": [
+    {
+      "headline": "Eritrea becomes the eleventh African country to eliminate trachoma",
+      "summary": "The World Health Organization validated that Eritrea has eliminated trachoma as a public health problem, making it the eleventh country in Africa and the thirty-fourth worldwide to reach that milestone. Trachoma is a bacterial eye infection that is a leading cause of preventable blindness in poorer regions.",
+      "why_it_matters": "It shows one of the world's oldest blinding diseases keeps retreating as more countries reach full elimination.",
+      "topic": "health",
+      "source_name": "World Health Organization",
+      "url": "https://www.who.int/news/item/16-11-2026-eritrea-eliminates-trachoma-a-major-public-health-milestone",
+      "date": "2026-11-16"
+    },
+    {
+      "headline": "FDA approves new targeted therapy for advanced lung cancer after other treatments fail",
+      "summary": "The FDA granted accelerated approval to the targeted drug neladalkib for adults with advanced lung cancer driven by a specific gene fusion, whose disease had progressed after other targeted drugs and chemotherapy. It gives these patients a new option when previous treatments have stopped working.",
+      "why_it_matters": "It adds a next-line treatment for lung cancer patients who had run out of effective options.",
+      "topic": "medicine",
+      "source_name": "AJMC",
+      "url": "https://www.ajmc.com/view/fda-grants-accelerated-approval-to-neladalkib-for-previously-treated-alk-positive-nsclc",
+      "date": "2026-11-17"
+    },
+    {
+      "headline": "Federal judge rules Trump administration's Pacific seabed mining plan violated the law",
+      "summary": "A federal judge in Hawaii ruled that the government's plan to lease millions of acres of seafloor near American Samoa for mining violated federal law, after finding that wildlife regulators failed to properly study the harm to protected species. It is the first successful legal challenge to the administration's push to open the ocean floor to mining.",
+      "why_it_matters": "It blocks a large-scale seabed mining plan before it could damage ocean habitat that had not been properly studied.",
+      "topic": "environment",
+      "source_name": "Honolulu Star-Advertiser",
+      "url": "https://www.staradvertiser.com/2026/11/18/hawaii-news/trump-plan-for-pacific-seabed-mining-violates-law-federal-judge-in-hawaii-rules",
+      "date": "2026-11-18"
+    }
+  ]
+}
