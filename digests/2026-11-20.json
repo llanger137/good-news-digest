@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-20",
+  "items": [
+    {
+      "headline": "FDA approves first drug shown to extend survival in infantile-onset Niemann-Pick disease type C",
+      "summary": "The FDA approved adrabetadex, sold as Lembaz, as the first treatment shown to extend survival in children with infantile-onset Niemann-Pick disease type C, a rare and usually fatal inherited disorder. Patients who took the drug had roughly half the risk of death compared with a matched group who did not.",
+      "why_it_matters": "It is the first therapy ever shown to help children with this fatal childhood disease live longer.",
+      "topic": "medicine",
+      "source_name": "NeurologyLive",
+      "url": "https://www.neurologylive.com/view/fda-approves-adrabetadex-first-therapy-improve-survival-infantile-onset-niemann-pick-disease-type-c",
+      "date": "2026-11-17"
+    },
+    {
+      "headline": "FDA approves Gazyva as the first drug for primary membranous nephropathy",
+      "summary": "The FDA approved Gazyva as the first drug specifically for primary membranous nephropathy, a rare autoimmune kidney disease that can lead to kidney failure if untreated. In a large trial, more than a third of patients went into complete remission after two years, compared with only about one in seventeen on the standard treatment.",
+      "why_it_matters": "People with this kidney disease now have a first approved treatment where none existed before.",
+      "topic": "medicine",
+      "source_name": "Drug Topics",
+      "url": "https://www.drugtopics.com/view/gazyva-approved-as-first-drug-for-primary-membranous-nephropathy",
+      "date": "2026-11-16"
+    },
+    {
+      "headline": "FDA approves first treatment for the neurological symptoms of type three Gaucher disease",
+      "summary": "The FDA approved venglustat, sold as Infilbray, as the first treatment for the neurological symptoms of type three Gaucher disease, a rare inherited disorder that causes seizures and movement problems starting in childhood. The approval covers patients as young as those weighing about thirty three pounds.",
+      "why_it_matters": "Families facing this disease have had no approved option for its neurological symptoms until now.",
+      "topic": "medicine",
+      "source_name": "Pharmacy Times",
+      "url": "https://www.pharmacytimes.com/view/fda-approves-venglustat-first-treatment-for-neurological-symptoms-of-gd3",
+      "date": "2026-11-18"
+    },
+    {
+      "headline": "Europe's drug regulator recommends a new pill for hard-to-control high blood pressure",
+      "summary": "The European Medicines Agency's committee recommended approval of baxdrostat, to be sold as Baxfendy, for adults whose high blood pressure stays too high despite taking at least two other blood pressure medicines. It works by blocking an enzyme called aldosterone synthase, a new way of treating the condition.",
+      "why_it_matters": "It offers a new option for patients with hard to control blood pressure once the European Commission finalizes the approval.",
+      "topic": "medicine",
+      "source_name": "European Medicines Agency",
+      "url": "https://www.ema.europa.eu/en/node/289112",
+      "date": "2026-11-12"
+    }
+  ]
+}
