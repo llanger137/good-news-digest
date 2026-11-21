@@ -111,3 +111,4 @@
 2026-11-20 | FDA approves Gazyva as the first drug for primary membranous nephropathy
 2026-11-20 | FDA approves first treatment for the neurological symptoms of type three Gaucher disease
 2026-11-20 | Europe's drug regulator recommends a new pill for hard-to-control high blood pressure
+2026-11-21 | FDA approves first RNA-based therapy for generalized myasthenia gravis
