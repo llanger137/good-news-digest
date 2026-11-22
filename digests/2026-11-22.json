@@ -1,4 +1,14 @@
 {
   "date": "2026-11-22",
-  "items": []
+  "items": [
+    {
+      "headline": "BepiColombo spacecraft set to enter orbit around Mercury after an eight-year journey",
+      "summary": "After an eight year journey through the solar system, the European and Japanese BepiColombo spacecraft is scheduled to enter orbit around Mercury on November twenty-first. Its instruments, including an X ray spectrometer that already passed its first in-space tests, will spend the coming months studying the sun's innermost planet before full science observations begin next spring.",
+      "why_it_matters": "It is only the second mission ever to orbit Mercury, giving scientists their first fresh look in over a decade at the composition and magnetic field of the solar system's least explored rocky planet.",
+      "topic": "science",
+      "source_name": "ScienceDaily / University of Leicester",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261120075547.htm",
+      "date": "2026-11-21"
+    }
+  ]
 }
