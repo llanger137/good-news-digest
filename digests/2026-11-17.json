@@ -1,4 +1,14 @@
 {
   "date": "2026-11-17",
-  "items": []
+  "items": [
+    {
+      "headline": "Bladder cancer therapy cuts recurrence by 68 percent in phase three trial",
+      "summary": "Cretostimogene, given after surgery for intermediate-risk bladder cancer, cut the risk of recurrence by 68 percent with no serious treatment-related side effects.",
+      "why_it_matters": "Bladder cancer recurs often, and repeated surgeries take a heavy toll on patients.",
+      "topic": "medicine",
+      "source_name": "Urology Times",
+      "url": "https://www.urologytimes.com/view/cretostimogene-reduces-recurrence-risk-by-68-in-phase-3-pivot-006-trial-in-nmibc",
+      "date": "2026-11-16"
+    }
+  ]
 }

@@ -1,4 +1,14 @@
 {
   "date": "2026-11-15",
-  "items": []
+  "items": [
+    {
+      "headline": "SpaceX catches a Starship upper stage with the launch tower for the first time",
+      "summary": "After about 14 orbits, the Starship upper stage returned and was caught by the tower at Starbase, though the booster was lost.",
+      "why_it_matters": "Fully reusable rockets could sharply cut the cost of reaching orbit.",
+      "topic": "science",
+      "source_name": "Aerospace America",
+      "url": "https://aerospaceamerica.aiaa.org/spacex-achieves-first-starship-tower-catch/",
+      "date": "2026-11-14"
+    }
+  ]
 }

@@ -1,4 +1,14 @@
 {
   "date": "2026-10-22",
-  "items": []
+  "items": [
+    {
+      "headline": "Pill succeeds in two late-stage trials for a sight-threatening eye inflammation",
+      "summary": "Brepocitinib, a daily pill, cut treatment failure to about a third of patients versus nearly four in five on placebo across two phase three trials in non-infectious uveitis.",
+      "why_it_matters": "Uveitis is a leading cause of preventable blindness, and current options rely heavily on steroids with serious side effects.",
+      "topic": "medicine",
+      "source_name": "Priovant Therapeutics",
+      "url": "https://finviz.com/news/405077/roivant-and-priovant-announce-positive-results-in-clarity-1-and-clarity-2-phase-3-trials-for-brepocitinib-in-non-infectious-uveitis-niu",
+      "date": "2026-10-21"
+    }
+  ]
 }

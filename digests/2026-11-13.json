@@ -1,4 +1,23 @@
 {
   "date": "2026-11-13",
-  "items": []
+  "items": [
+    {
+      "headline": "Tuberculosis deaths down 35 percent since 2015, WHO reports",
+      "summary": "WHO's annual report finds TB deaths fell to 1.1 million in 2025, reaching the first End TB mortality milestone, and treatment has saved an estimated 86 million lives since 2000.",
+      "why_it_matters": "Tuberculosis is the world's deadliest infectious disease.",
+      "topic": "health",
+      "source_name": "WHO",
+      "url": "https://www.who.int/news/item/12-11-2026-amid-challenges-countries-increase-domestic-investment-to-protect-progress-against-tuberculosis",
+      "date": "2026-11-12"
+    },
+    {
+      "headline": "Euclid telescope releases a map of 900 million galaxies",
+      "summary": "The European Space Agency released Euclid's first major dataset, covering about 14 percent of its planned survey of the sky.",
+      "why_it_matters": "The open data will help scientists probe dark matter and dark energy, which make up most of the universe.",
+      "topic": "science",
+      "source_name": "ESA",
+      "url": "https://www.esa.int/articles/about-us/directorates/science/euclid/euclid-lays-the-foundation-for-its-best-ever-3d-map-of-the-universe",
+      "date": "2026-11-12"
+    }
+  ]
 }

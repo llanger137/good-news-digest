@@ -1,4 +1,32 @@
 {
   "date": "2026-10-24",
-  "items": []
+  "items": [
+    {
+      "headline": "Personalised mRNA vaccine cuts melanoma recurrence or death by 42 percent in phase three trial",
+      "summary": "Intismeran, custom-made for each patient's tumour and given with immunotherapy, reduced the risk of melanoma returning or death by 42 percent at two years in a trial of 1,137 patients.",
+      "why_it_matters": "It is the first individualised cancer vaccine to succeed in a phase three trial, opening a new approach to cancer treatment.",
+      "topic": "medicine",
+      "source_name": "The Guardian",
+      "url": "https://www.theguardian.com/society/2026/oct/23/mrna-vaccine-melanoma-cancer-breakthrough-australia",
+      "date": "2026-10-23"
+    },
+    {
+      "headline": "India cuts prices of 137 cancer drugs after supreme court calls mark-ups extortion",
+      "summary": "A case brought by a retired bank clerk who could not afford her breast cancer treatment led India's government to cap prices on 137 cancer drugs.",
+      "why_it_matters": "High drug costs push many Indian families into debt or force them to forgo treatment entirely.",
+      "topic": "development",
+      "source_name": "The Guardian",
+      "url": "https://www.theguardian.com/global-development/2026/oct/23/india-cuts-cost-cancer-drugs",
+      "date": "2026-10-23"
+    },
+    {
+      "headline": "Australia's Great Koala National Park is created in law",
+      "summary": "New South Wales passed legislation creating a 475,000 hectare national park that is home to about 12,000 koalas, cutting native forest logging in the state by about a fifth.",
+      "why_it_matters": "Koalas are endangered in New South Wales, and habitat loss is the biggest threat to them.",
+      "topic": "environment",
+      "source_name": "NSW Government",
+      "url": "https://www.nsw.gov.au/ministerial-releases/great-koala-national-park-created",
+      "date": "2026-10-23"
+    }
+  ]
 }

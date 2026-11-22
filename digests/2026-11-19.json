@@ -1,4 +1,14 @@
 {
   "date": "2026-11-19",
-  "items": []
+  "items": [
+    {
+      "headline": "Voyager 1 becomes the first spacecraft one light-day from Earth",
+      "summary": "Launched in 1977, Voyager 1 crossed about 16 billion miles from Earth, so its signals now take a full day to reach us.",
+      "why_it_matters": "It is the farthest humanity has ever reached into space.",
+      "topic": "science",
+      "source_name": "NASA",
+      "url": "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/",
+      "date": "2026-11-18"
+    }
+  ]
 }

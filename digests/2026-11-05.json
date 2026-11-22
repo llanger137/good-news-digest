@@ -1,4 +1,14 @@
 {
   "date": "2026-11-05",
-  "items": []
+  "items": [
+    {
+      "headline": "63 countries have now eliminated at least one neglected tropical disease",
+      "summary": "WHO reports the count has risen from 42 countries in 2020, with Guinea worm down to a record low of 10 human cases and sleeping sickness down 98 percent since 1999.",
+      "why_it_matters": "These diseases disable and impoverish over a billion of the world's poorest people.",
+      "topic": "health",
+      "source_name": "WHO",
+      "url": "https://www.who.int/news/item/04-11-2026-progress-against-neglected-tropical-diseases-requires-sustained-action",
+      "date": "2026-11-04"
+    }
+  ]
 }

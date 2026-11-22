@@ -1,4 +1,23 @@
 {
   "date": "2026-10-23",
-  "items": []
+  "items": [
+    {
+      "headline": "Atacicept keeps kidney function stable for two years in a common kidney disease",
+      "summary": "In final phase three results published in the New England Journal of Medicine, atacicept cut kidney-function decline events from 38 to 11 over two years in people with IgA nephropathy.",
+      "why_it_matters": "IgA nephropathy is a leading cause of kidney failure in young adults, and few treatments slow it.",
+      "topic": "medicine",
+      "source_name": "Vera Therapeutics",
+      "url": "https://finviz.com/news/406633/vera-therapeutics-announces-positive-origin-3-final-efficacy-analysis-of-trutakna-atacicept-vymj-in-iga-nephropathy-presented-at-asn-kidney-week-2026-and-published-in-the-new-england-journal-of-medicine",
+      "date": "2026-10-22"
+    },
+    {
+      "headline": "Malaria vaccine price cut by about 40 percent, freeing funds for up to a million more children",
+      "summary": "Gavi and UNICEF secured a lower price for the RTS,S malaria vaccine, saving about 50 million dollars over 2027 to 2029.",
+      "why_it_matters": "Malaria kills hundreds of thousands of African children every year, and cheaper doses stretch limited vaccine budgets.",
+      "topic": "health",
+      "source_name": "Gavi",
+      "url": "https://www.gavi.org/news/media-room/gavi-and-unicef-secure-lower-malaria-vaccine-price-saving-us-50-million-childhood",
+      "date": "2026-10-22"
+    }
+  ]
 }

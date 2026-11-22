@@ -1,4 +1,14 @@
 {
   "date": "2026-11-07",
-  "items": []
+  "items": [
+    {
+      "headline": "China's carbon emissions post biggest quarterly drop since Covid",
+      "summary": "China's emissions fell 3.1 percent year on year in the third quarter as solar, wind and nuclear growth outpaced demand, and electric vehicles reached a record 67 percent of car sales in September.",
+      "why_it_matters": "China produces about a third of global emissions, so a sustained decline there matters for the whole world.",
+      "topic": "environment",
+      "source_name": "Carbon Brief",
+      "url": "https://www.carbonbrief.org/analysis-chinas-quarterly-co2-falls-3-in-largest-drop-since-covid",
+      "date": "2026-11-06"
+    }
+  ]
 }

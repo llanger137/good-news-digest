@@ -1,4 +1,14 @@
 {
   "date": "2026-11-12",
-  "items": []
+  "items": [
+    {
+      "headline": "Europe's Hera spacecraft arrives at the asteroid NASA deflected in 2022",
+      "summary": "Hera is now orbiting the Didymos and Dimorphos asteroid pair to measure how NASA's DART impact changed the smaller asteroid's orbit.",
+      "why_it_matters": "It completes humanity's first full test of a technique that could one day protect Earth from an asteroid.",
+      "topic": "science",
+      "source_name": "ESA",
+      "url": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/hera-spacecraft-in-rectangular-orbit-around-target-asteroids",
+      "date": "2026-11-11"
+    }
+  ]
 }

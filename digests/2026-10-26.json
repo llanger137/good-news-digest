@@ -1,4 +1,23 @@
 {
   "date": "2026-10-26",
-  "items": []
+  "items": [
+    {
+      "headline": "Next-generation lung cancer pill beats current drugs on survival",
+      "summary": "In a phase three trial published in the New England Journal of Medicine, divarasib cut the risk of death by 44 percent compared with existing KRAS-targeted drugs in previously treated lung cancer.",
+      "why_it_matters": "KRAS mutations drive about one in eight lung cancers, and current targeted drugs help only modestly.",
+      "topic": "medicine",
+      "source_name": "Roche",
+      "url": "https://www.roche.com/media/releases/med-cor-2026-10-25",
+      "date": "2026-10-25"
+    },
+    {
+      "headline": "Serbia's governing party concedes defeat to student-led movement after 14 years in power",
+      "summary": "On the highest turnout since 1992, President Vucic's party conceded to the student-led list, which was projected to win a majority, with no election-day violence reported.",
+      "why_it_matters": "A peaceful handover after more than a decade of increasingly authoritarian rule is a significant moment for democracy in Europe.",
+      "topic": "democracy",
+      "source_name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader",
+      "date": "2026-10-25"
+    }
+  ]
 }

@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-31",
+  "items": [
+    {
+      "headline": "Public raises 30 million pounds to rewild a huge Northumberland estate",
+      "summary": "The Wildlife Trusts secured the 3,800 hectare Rothbury estate after about 25,000 people donated, launching one of England's most ambitious nature recovery projects.",
+      "why_it_matters": "England is one of the most nature-depleted countries in Europe, and large connected landscapes are rare.",
+      "topic": "environment",
+      "source_name": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/oct/30/wildlife-trusts-northumberland-nature-recovery-rothbury-estate",
+      "date": "2026-10-30"
+    },
+    {
+      "headline": "Appeals court refuses to set aside about 20,000 California mail ballots",
+      "summary": "The Ninth Circuit ruled that setting the ballots aside would risk disenfranchising eligible voters, and the Supreme Court later declined to intervene, so the ruling stands.",
+      "why_it_matters": "Courts upholding eligible voters' ballots protects the integrity of elections.",
+      "topic": "democracy",
+      "source_name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/30/us-appeals-court-again-rejects-trump-bid-to-set-aside-california-ballots",
+      "date": "2026-10-30"
+    }
+  ]
+}
