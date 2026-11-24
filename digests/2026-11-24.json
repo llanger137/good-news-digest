@@ -1,0 +1,32 @@
+{
+  "date": "2026-11-24",
+  "items": [
+    {
+      "headline": "FDA approves first-ever treatment for limb-girdle muscular dystrophy",
+      "summary": "The FDA approved Welgemda, the first treatment ever approved for any form of limb-girdle muscular dystrophy, a rare inherited muscle disease that causes progressive weakness and breathing problems. In a trial of over one hundred patients, it improved walking speed and lung function compared with a placebo.",
+      "why_it_matters": "Patients with this form of muscular dystrophy have never had an approved treatment option before now.",
+      "topic": "medicine",
+      "source_name": "FDA",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-limb-girdle-muscular-dystrophy-type-2ir9",
+      "date": "2026-11-23"
+    },
+    {
+      "headline": "FDA approves first new breast cancer hormone therapy in over twenty years",
+      "summary": "The FDA approved Wilserdly, a once daily pill that blocks estrogen signaling, for women recovering from early stage, hormone driven breast cancer who are at risk of the cancer coming back. In a trial of more than four thousand patients, it cut the risk of recurrence or death by thirty percent compared with standard hormone therapy.",
+      "why_it_matters": "It is the first new hormone therapy approved for early breast cancer in more than two decades, and it treats a subtype that makes up about seventy percent of breast cancer cases.",
+      "topic": "medicine",
+      "source_name": "FDA",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-new-hormone-therapy-early-stage-breast-cancer-more-20-years",
+      "date": "2026-11-23"
+    },
+    {
+      "headline": "Medicare's third round of drug price negotiations will save nine billion dollars",
+      "summary": "The United States government said a third round of Medicare drug price negotiations will save nine point two billion dollars next year, a forty five percent reduction from what Medicare would otherwise have paid. This is the first round to include drugs given in doctors offices rather than only pharmacy drugs.",
+      "why_it_matters": "It shows a federal program for lowering drug costs is continuing to produce real, growing savings for patients and taxpayers.",
+      "topic": "health",
+      "source_name": "STAT News",
+      "url": "https://www.statnews.com/2026/11/23/medicare-drug-price-negotiations-announcement-third-round/",
+      "date": "2026-11-23"
+    }
+  ]
+}
